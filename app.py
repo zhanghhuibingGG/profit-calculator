@@ -68,8 +68,8 @@ with st.sidebar:
 # ---------- 页脚（请替换为你的小红书链接） ----------
 st.markdown("---")
 st.markdown(
-    "更多电商财税干货，请关注小红书 **[@你的账号]** "
-    "（[点击跳转](https://www.xiaohongshu.com/user/profile/你的用户ID)）",
+    "更多电商财税干货，请关注小红书 **[@AC 双枫]** "
+    "（[点击跳转](https://www.xiaohongshu.com/user/profile/66d6604c000000001d0307be)）",
     unsafe_allow_html=True
 )
 
